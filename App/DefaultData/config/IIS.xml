@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ConnectionSetting xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <UsePreAuthentication_Basic>false</UsePreAuthentication_Basic>
+  <UsePreAuthentication_WSSE>false</UsePreAuthentication_WSSE>
+  <UseDefaultCredential>false</UseDefaultCredential>
+  <URIRequestEncoding>UTF-8</URIRequestEncoding>
+  <URIResponseEncoding>UTF-8</URIResponseEncoding>
+  <CredentialEncoding>UTF-8</CredentialEncoding>
+  <DontRequestGzip>false</DontRequestGzip>
+  <DontRequestDeflate>false</DontRequestDeflate>
+  <RequestTranslatef>true</RequestTranslatef>
+  <DontExpect100>false</DontExpect100>
+  <SendEmptyPUT>false</SendEmptyPUT>
+  <DontUpdateProperty>false</DontUpdateProperty>
+  <Proxy>Default</Proxy>
+  <ProxyByPassLocal>false</ProxyByPassLocal>
+  <ProxyUseDefaultCredential>false</ProxyUseDefaultCredential>
+  <ReadWriteTimeout>10000</ReadWriteTimeout>
+  <ConnectTimeout>10000</ConnectTimeout>
+  <Name>IIS</Name>
+  <TargetUri></TargetUri>
+  <UserName />
+  <Password />
+  <DontSave>false</DontSave>
+  <AuthModules />
+  <ProxyUri />
+  <ProxyUserName />
+  <ProxyPassword />
+  <ProxyByPassList />
+</ConnectionSetting>

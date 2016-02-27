@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WebDAVClientSetting xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <FormSize>
+    <Width>613</Width>
+    <Height>527</Height>
+  </FormSize>
+  <ConnectionSettingListFormSize>
+    <Width>0</Width>
+    <Height>0</Height>
+  </ConnectionSettingListFormSize>
+  <View>Details</View>
+  <ShowLogWindow>false</ShowLogWindow>
+  <ShowStatusBar>false</ShowStatusBar>
+  <ColumnIndexs>
+    <int>0</int>
+    <int>1</int>
+    <int>2</int>
+    <int>3</int>
+    <int>4</int>
+    <int>5</int>
+  </ColumnIndexs>
+  <ColumnWidth>
+    <int>60</int>
+    <int>75</int>
+    <int>25</int>
+    <int>25</int>
+    <int>25</int>
+    <int>25</int>
+  </ColumnWidth>
+  <AutoColumnWidth>true</AutoColumnWidth>
+  <Group>None</Group>
+  <SortString />
+  <VersionCheckEnabled>true</VersionCheckEnabled>
+  <EnableFileLogging>false</EnableFileLogging>
+  <LastConnectionSetting />
+  <MaxFaviconSize>1048576</MaxFaviconSize>
+  <ConnectionSettings />
+</WebDAVClientSetting>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ConnectionSettingBase xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ConnectionSetting">
+  <DownloadFilenameNormalization>NFC</DownloadFilenameNormalization>
+  <UploadFilenameNormalization>None</UploadFilenameNormalization>
+  <Proxy>Default</Proxy>
+  <ProxyByPassLocal>false</ProxyByPassLocal>
+  <ProxyUseDefaultCredential>false</ProxyUseDefaultCredential>
+  <ReadWriteTimeout>10000</ReadWriteTimeout>
+  <ConnectTimeout>10000</ConnectTimeout>
+  <Name>04WebServer</Name>
+  <Favicon />
+  <TargetUri>http://localhost/</TargetUri>
+  <UserName />
+  <Password />
+  <DontSave>false</DontSave>
+  <ProxyUri />
+  <ProxyUserName />
+  <ProxyPassword />
+  <ProxyByPassList />
+  <UseDefaultCredential>false</UseDefaultCredential>
+  <UsePreAuthentication_Basic>false</UsePreAuthentication_Basic>
+  <UsePreAuthentication_WSSE>false</UsePreAuthentication_WSSE>
+  <SendClientCertificate>false</SendClientCertificate>
+  <URIRequestEncoding>UTF-8</URIRequestEncoding>
+  <URIResponseEncoding>UTF-8</URIResponseEncoding>
+  <CredentialEncoding>UTF-8</CredentialEncoding>
+  <DontRequestGzip>false</DontRequestGzip>
+  <DontRequestDeflate>false</DontRequestDeflate>
+  <RequestTranslatef>true</RequestTranslatef>
+  <DontExpect100>false</DontExpect100>
+  <SendEmptyPUT>false</SendEmptyPUT>
+  <DontUpdateProperty>true</DontUpdateProperty>
+  <UseFullUriInDestinationHeader>true</UseFullUriInDestinationHeader>
+  <UploadCompression>None</UploadCompression>
+  <DontVerifyContentRange>true</DontVerifyContentRange>
+  <RedirectionCollectionOnly>true</RedirectionCollectionOnly>
+  <UseEncryption>false</UseEncryption>
+  <AutoSplit>false</AutoSplit>
+  <SplitSizeMB>50</SplitSizeMB>
+  <EncryptionKey />
+  <AuthModules>Basic</AuthModules>
+</ConnectionSettingBase>
