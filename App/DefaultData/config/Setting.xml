@@ -30,7 +30,7 @@
   <AutoColumnWidth>true</AutoColumnWidth>
   <Group>None</Group>
   <SortString />
-  <VersionCheckEnabled>true</VersionCheckEnabled>
+  <VersionCheckEnabled>false</VersionCheckEnabled>
   <EnableFileLogging>false</EnableFileLogging>
   <LastConnectionSetting />
   <MaxFaviconSize>1048576</MaxFaviconSize>
