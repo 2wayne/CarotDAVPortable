@@ -1,5 +1,5 @@
 
-WebDAV Client CarotDAV Ver. 1.12.6
+WebDAV Client CarotDAV Ver. 1.12.7
 
 Abstract
 	WebDAV client for windows OS.
