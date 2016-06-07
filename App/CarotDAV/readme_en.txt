@@ -1,20 +1,20 @@
 
-WebDAV Client CarotDAV Ver. 1.12.7
+WebDAV Client CarotDAV Ver. 1.13.0
 
 Abstract
 	WebDAV client for windows OS.
-	FTP/FTPS, DropBox, GoogleDrive, OneDrive, Box, SugarSync and Copy are also supported.
+	FTP/FTPS and other online storages are also supported.
 	In addition, simplified WebDAV server for local use are embedded.
 
 Environment
-	Windows 2000, XP, 2003, Vista, 2008, 7, 2012, 8, 10
+	Windows 2000, XP, 2003, Vista, 2008, 7, 2011, 2012, 8, 10
 	.Net Framework 2.0/4.0
 	(tested on IIS6, IIS7, Apache2.2/2.1, and other servers)
 
 Complied standards, features
 	WebDAV
 	FTP/FTPS
-	DropBox / GoogleDrive / OneDrive / Box / SugarSync / Copy / AmazonCloudDrive
+	DropBox / GoogleDrive / OneDrive / Box / SugarSync / AmazonCloudDrive / HubiC / OpenStack Swift
 	IMAP
 	Resume
 	Auto Split

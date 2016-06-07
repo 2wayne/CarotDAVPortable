@@ -1,5 +1,5 @@
 
-WebDAV Client CarotDAV Ver. 1.12.7
+WebDAV Client CarotDAV Ver. 1.13.0
 
 概要
 	Windows用のWebDAVクライアントです。
@@ -7,14 +7,14 @@ WebDAV Client CarotDAV Ver. 1.12.7
 	ローカル用の簡易WebDAVサーバーもつけました。
 
 動作環境
-	Windows 2000, XP, 2003, Vista, 2008, 7, 2012, 8, 10
+	Windows 2000, XP, 2003, Vista, 2008, 7, 2011, 2012, 8, 10
 	要.Net Framework 2.0/4.0
 	(IIS6、IIS7、Apache2.2/2.1、その他のサーバーで動作確認)
 
 対応規格等
 	WebDAV
 	FTP/FTPS
-	DropBox / GoogleDrive / OneDrive / Box / SugarSync / Copy / AmazonCloudDrive
+	DropBox / GoogleDrive / OneDrive / Box / SugarSync / AmazonCloudDrive / HubiC / OpenStack Swift
 	Host-specific file names
 	IMAP
 	Unicode正規化(Unicode Standard Annex #15)
