@@ -1,5 +1,5 @@
 
-WebDAV Client CarotDAV Ver. 1.13.0
+WebDAV Client CarotDAV Ver. 1.14.6
 
 Abstract
 	WebDAV client for windows OS.
@@ -23,6 +23,8 @@ Complied standards, features
 	Unicode Normalization (Unicode Standard Annex #15)
 	Master Password(XML-Enc)
 	TLS1.1/1.2 (over .Net4.5)
+	Simplified WebDAV server for local use
+	GUI / CUI
 
 How to install/uninstall
 	There are two types of distribution package.

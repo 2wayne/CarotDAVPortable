@@ -1,5 +1,5 @@
 
-WebDAV Client CarotDAV Ver. 1.13.0
+WebDAV Client CarotDAV Ver. 1.14.6
 
 概要
 	Windows用のWebDAVクライアントです。
@@ -23,6 +23,8 @@ WebDAV Client CarotDAV Ver. 1.13.0
 	暗号化・ファイル検証
 	マスターパスワード(XML-Enc)
 	TLS1.1/1.2 (.Net4.5以降)
+	簡易WebDAVサーバー
+	GUI/CUI
 	詳細は一次配布サイト(http://rei.to/carodav.html)を参照ください。
 
 インストール方法
@@ -70,6 +72,8 @@ WebDAV Client CarotDAV Ver. 1.13.0
 			CarotDAV実行形式およびライブラリ。
 		CarotDAV.exe.config
 			CarotDAV.exeの構成ファイル
+		CarotDAVC.exe
+			CarotDAVのCUI版の実行形式。
 		readme_ja.txt
 			CarotDAVの説明書き。このファイル。日本語。
 		readme_en.txt
